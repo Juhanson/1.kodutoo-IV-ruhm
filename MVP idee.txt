@@ -1,0 +1,7 @@
+Olen aktiivne jõusaali külastaja ja seega mõtlesin, et võiks teha veebilehe mis laseb sisestada treeningtulemusi,
+harjutusi ja raskuseid ning ka hoiab need andmed alles. MVP oleks sellega täidetud. 
+
+Tulevikus võiks ka lisada võimaluse kuvada erinevaid graafikuid ja võrrelda tulemusi üle aja.
+Võiks ka lisada lingi www.bodybuilding.com vastavale harjutusele, kus on alati ka treeningvideo tehnikast ja vastavad lihasgrupid mida treenib.
+
+Olemasolevatest lahendustest oleks näiteks https://www.simpleworkoutlog.com/
